@@ -3,8 +3,8 @@ var cargo="CTO - Grwdev"
 
 var nomeHtml = document.getElementById("nome-no-html");
 var cargoHtml = document.getElementById("cargo-no-html");
-var texto1= document.getElementsById("texto-1");
-var texto2 = document.getElementsById("texto-2");
+var texto1= document.getElementById("texto-1");
+var texto2 = document.getElementById("texto-2");
 
 function colocarNomeNoHtml(nome){
 nomeHtml.innerHTML = nome;
