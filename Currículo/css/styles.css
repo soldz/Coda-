@@ -110,10 +110,14 @@ body {
     display: flex !important;
     justify-content: center !important;
   }
+  .rodape {
+    text-align: center !important;
+    margin-bottom: 10px;
+  }
 }
 
 #texto-1 {
 }
 #text-2 {
-  dispolay: none;
+  display: none;
 }
